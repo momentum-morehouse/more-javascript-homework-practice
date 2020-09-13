@@ -1,6 +1,8 @@
 // Problem 1
 // declare a variable called fruit
-// assign your variable the value 6
+// assign your variable the value "banana"
+// console log your variable
+// reassign your variable the value "peach"
 // console log your variable
 
 // Problem 2
